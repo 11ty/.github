@@ -11,5 +11,6 @@ REPOS=()
 # REPOS=("11ty/eleventy-plugin-rss" "11ty/11ty-logo" "11ty/eleventy-assets" "11ty/eleventy-import-disqus" "11ty/eleventy-community" "11ty/giffleball" "11ty/eleventy-inclusive-design-checklist")
 
 for repo in "${REPOS[@]}"; do
-  github-label-sync --access-token $TOKEN --labels github-labels.yml $repo
+  # See also --dry-run
+  github-label-sync --allow-added-labels --access-token $TOKEN --labels github-labels.yml $repo 
 done

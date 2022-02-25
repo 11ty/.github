@@ -6,6 +6,8 @@
 
 Usage:
 
+⚠️ Warning: this will delete any manually added labels that are not listed in the `github-labels.yml` file.
+
 ```
 TOKEN=MY_GITHUB_TOKEN_VALUE ./update-all.sh
 ```

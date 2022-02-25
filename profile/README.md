@@ -1,5 +1,13 @@
-* Documentation for the [Eleventy site generator](https://www.11ty.dev/).
+* [Documentation for the Eleventy site generator](https://www.11ty.dev/).
 * Please star [Eleventy on GitHub](https://github.com/11ty/eleventy/), follow [@eleven_ty](https://twitter.com/eleven_ty) on Twitter, and support [11ty on Open Collective](https://opencollective.com/11ty)
+
+| Social | Badge |
+| --- | --- |
+| Star on GitHub | ![Number of GitHub stars for 11ty/eleventy](https://img.shields.io/github/stars/11ty/eleventy?style=for-the-badge) |
+| Follow on Twitter | ![Follow @eleven_ty on Twitter](https://img.shields.io/twitter/follow/eleven_ty?label=%40eleven_ty&style=for-the-badge) |
+| Chat on Discord | ![Number of users online in Eleventy Discord](https://img.shields.io/discord/741017160297611315?style=for-the-badge) |
+| Subscribe on YouTube | [![Number of YouTube Channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCskGTioqrMBcw8pd14_334A?style=for-the-badge)](https://www.youtube.com/channel/UCskGTioqrMBcw8pd14_334A) |
+
 
 | Repository name | Version | Issues | Pull Requests |
 | --- | --- | --- | --- |
@@ -11,12 +19,5 @@
 | `11ty/eleventy-plugin-vue` | [![npm Version](https://img.shields.io/npm/v/@11ty/eleventy-plugin-vue.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy-plugin-vue) | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy-plugin-vue.svg?style=for-the-badge)](https://github.com/11ty/eleventy/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/eleventy-plugin-vue.svg?style=for-the-badge)](https://github.com/11ty/eleventy-plugin-vue/issues) |
 | `11ty/eleventy-navigation` | [![npm Version](https://img.shields.io/npm/v/@11ty/eleventy-navigation.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy-navigation) | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy-navigation.svg?style=for-the-badge)](https://github.com/11ty/eleventy/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/eleventy-navigation.svg?style=for-the-badge)](https://github.com/11ty/eleventy-navigation/issues) |
 | `11ty/eleventy-plugin-rss` | [![npm Version](https://img.shields.io/npm/v/@11ty/eleventy-plugin-rss.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy-plugin-rss) | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy-plugin-rss.svg?style=for-the-badge)](https://github.com/11ty/eleventy/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/eleventy-plugin-rss.svg?style=for-the-badge)](https://github.com/11ty/eleventy-plugin-rss/issues) |
-
-| Social | Badge |
-| --- | --- |
-| Star on GitHub | ![Number of GitHub stars for 11ty/eleventy](https://img.shields.io/github/stars/11ty/eleventy?style=for-the-badge) |
-| Follow on Twitter | ![Follow @eleven_ty on Twitter](https://img.shields.io/twitter/follow/eleven_ty?label=%40eleven_ty&style=for-the-badge) |
-| Chat on Discord | ![Number of users online in Eleventy Discord](https://img.shields.io/discord/741017160297611315?style=for-the-badge) |
-| Subscribe on YouTube | [![Number of YouTube Channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCskGTioqrMBcw8pd14_334A?style=for-the-badge)](https://www.youtube.com/channel/UCskGTioqrMBcw8pd14_334A) |
 
 <!-- Badges https://shields.io/category/issue-tracking -->

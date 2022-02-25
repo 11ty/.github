@@ -14,7 +14,9 @@
 
 | Social | Badge |
 | --- | --- |
-| Eleventy Discord | ![Number of users online in Eleventy Discord](https://img.shields.io/discord/741017160297611315?style=for-the-badge) |
-| Eleventy YouTube | [![Number of YouTube Channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCskGTioqrMBcw8pd14_334A?style=for-the-badge)](https://www.youtube.com/channel/UCskGTioqrMBcw8pd14_334A) |
+| Star on GitHub | ![Number of GitHub stars for 11ty/eleventy](https://img.shields.io/github/stars/11ty/eleventy?style=for-the-badge) |
+| Follow on Twitter | ![Follow @eleven_ty on Twitter](https://img.shields.io/twitter/follow/eleven_ty?style=for-the-badge) |
+| Chat on Discord | ![Number of users online in Eleventy Discord](https://img.shields.io/discord/741017160297611315?style=for-the-badge) |
+| Subscribe on YouTube | [![Number of YouTube Channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCskGTioqrMBcw8pd14_334A?style=for-the-badge)](https://www.youtube.com/channel/UCskGTioqrMBcw8pd14_334A) |
 
 <!-- Badges https://shields.io/category/issue-tracking -->

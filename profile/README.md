@@ -4,5 +4,6 @@
 | Repository name | Version | Issues |
 | --- | --- | --- |
 | `11ty/eleventy` | [![npm Version](https://img.shields.io/npm/v/@11ty/eleventy.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy) | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy.svg?style=for-the-badge)](https://github.com/11ty/eleventy/issues) |
+| `11ty/11ty-website` | [![npm Version](https://img.shields.io/npm/v/@11ty/11ty-website.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/11ty-website) | [![GitHub issues](https://img.shields.io/github/issues/11ty/11ty-website.svg?style=for-the-badge)](https://github.com/11ty/11ty-website/issues) |
 | `11ty/eleventy-img` | [![npm Version](https://img.shields.io/npm/v/@11ty/eleventy-img.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy-img) | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy-img.svg?style=for-the-badge)](https://github.com/11ty/eleventy/issues) |
 | `11ty/eleventy-cache-assets` | [![npm Version](https://img.shields.io/npm/v/@11ty/eleventy-cache-assets.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy-cache-assets) | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy-cache-assets.svg?style=for-the-badge)](https://github.com/11ty/eleventy/issues) |

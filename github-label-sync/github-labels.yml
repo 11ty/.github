@@ -1,0 +1,86 @@
+# From https://github.com/Financial-Times/github-label-sync
+- name: breaking change
+  color: "ff6600"
+  aliases:
+     - breaking-change
+  description: "This will have to be included with a major version as it breaks backwards compatibility."
+- name: favorite
+  color: "90ef43"
+  description: "Vanity label! The maintainer likes this enhancement request a lot."
+- name: stale
+  color: "c5def5"
+- name: needs discussion
+  color: "f4f963"
+  aliases:
+    - for-discussion
+- name: waiting to close
+  color: "c2e0c6"
+  description: "Issue that is probably resolved, waiting on OP confirmation."
+- name: good first issue
+  color: "7057ff"
+  description: "Good for newcomers."
+
+# Enhancement Queue (tied to existing README hyperlinks)
+- name: "enhancement"
+  color: "84b6eb"
+- name: "needs-votes"
+  color: "5319e7"
+
+# Types
+- name: chore
+  color: "c5def5"
+  aliases:
+    - housekeeping
+- name: documentation
+  color: "1d76db"
+- name: bug
+  color: "ee0701"
+- name: "bug: dependency"
+  color: "ee0701"
+- name: duplicate
+  color: "cccccc"
+- name: education
+  color: "0e8a16"
+
+# Priorities
+- name: "priority: high"
+  color: "da3e66"
+  aliases:
+    - high-priority
+    - priority
+  description: "Has some urgency!"
+- name: "priority: low"
+  color: "da3e66"
+
+# Scopes
+- name: "scope: small"
+  color: "fef2c0"
+- name: "scope: large"
+  color: "fef2c0"
+
+# Blockers
+- name: on hold
+  color: "e20fb8"
+  aliases:
+    - blocked
+    - on-hold
+    - needs-changes
+- name: needs test case
+  color: "e20fb8"
+  aliases:
+    - having-trouble-reproducing
+    - needs-test-case
+- name: open-question
+  color: "e20fb8"
+  aliases:
+    - question
+  description: "Further information is requested from the original poster."
+- name: pull-requested
+  color: "e20fb8"
+  description: "A pending pull request has been opened to fix this."
+
+# Environments
+- name: "env: windows"
+  color: "1ad886"
+  aliases:
+    - windows

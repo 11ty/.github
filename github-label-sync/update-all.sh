@@ -1,8 +1,5 @@
-# Usage: TOKEN=MY_GITHUB_TOKEN_VALUE ./update-all.sh
-
-
 # Warning: hit a rate limit of ~24 repos at a time, uncomment one line at a time
-# The core repo is not included below: "11ty/eleventy"
+# The core repo is intentionally not included below: "11ty/eleventy"
 
 REPOS=()
 
@@ -10,6 +7,9 @@ REPOS=()
 
 # REPOS=("11ty/eleventy-plugin-rss" "11ty/11ty-logo" "11ty/eleventy-assets" "11ty/eleventy-import-disqus" "11ty/eleventy-community" "11ty/giffleball" "11ty/eleventy-inclusive-design-checklist")
 
+# REPOS=("11ty/eleventy-dev-server" "11ty/eleventy-utils" "11ty/mascot")
+
+# Usage: TOKEN=MY_GITHUB_TOKEN_VALUE ./update-all.sh
 for repo in "${REPOS[@]}"; do
   # See also --dry-run
   github-label-sync --allow-added-labels --access-token $TOKEN --labels github-labels.yml $repo 

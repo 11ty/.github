@@ -63,7 +63,7 @@
   color: "e20fb8"
   aliases:
     - blocked
-    - on-hold
+    - "on-hold"
     - needs-changes
 - name: needs test case
   color: "e20fb8"

@@ -7,7 +7,7 @@ REPOS=()
 
 # REPOS=("11ty/eleventy-plugin-rss" "11ty/11ty-logo" "11ty/eleventy-assets" "11ty/eleventy-import-disqus" "11ty/eleventy-community" "11ty/giffleball" "11ty/eleventy-inclusive-design-checklist")
 
-# REPOS=("11ty/eleventy-dev-server" "11ty/eleventy-utils" "11ty/mascot")
+# REPOS=("11ty/eleventy-dev-server" "11ty/eleventy-utils" "11ty/mascot" "11ty/eleventy-server-browsersync" "11ty/eleventy-plugin-vite")
 
 # Usage: TOKEN=MY_GITHUB_TOKEN_VALUE ./update-all.sh
 for repo in "${REPOS[@]}"; do

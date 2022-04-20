@@ -41,6 +41,8 @@
   color: "cccccc"
 - name: education
   color: "0e8a16"
+- name: "npm-audit"
+  color: "9e5edb"
 
 # Priorities
 - name: "priority: high"

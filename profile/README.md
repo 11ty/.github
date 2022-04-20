@@ -39,3 +39,10 @@
 | [`11ty/api-sparkline`](https://github.com/11ty/api-sparkline) | [![GitHub issues](https://img.shields.io/github/issues/11ty/api-sparkline.svg?style=for-the-badge)](https://github.com/11ty/api-sparkline/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/api-sparkline.svg?style=for-the-badge)](https://github.com/11ty/api-sparkline/pulls) |
 
 <!-- Badges https://shields.io/category/issue-tracking -->
+
+Demo Repositories:
+
+* [`demo-eleventy-edge`](https://github.com/11ty/demo-eleventy-edge)
+* [`demo-eleventy-img-netlify-cache`](https://github.com/11ty/demo-eleventy-img-netlify-cache)
+* [`demo-eleventy-serverless`](https://github.com/11ty/demo-eleventy-serverless)
+* [`demo-eleventy-serverless-oauth`](https://github.com/11ty/demo-eleventy-serverless-oauth)

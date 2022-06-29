@@ -14,9 +14,9 @@
 | [`11ty/11ty-website`](https://github.com/11ty/11ty-website) | ![Netlify Build](https://img.shields.io/netlify/f45cae6b-ce2d-47f1-9de7-a90a6e79ed4f?style=for-the-badge) | [![GitHub issues](https://img.shields.io/github/issues/11ty/11ty-website.svg?style=for-the-badge)](https://github.com/11ty/11ty-website/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/11ty-website.svg?style=for-the-badge)](https://github.com/11ty/11ty-website/pulls) |
 | [`11ty/11ty-community`](https://github.com/11ty/11ty-community) | | [![GitHub issues](https://img.shields.io/github/issues/11ty/11ty-community.svg?style=for-the-badge)](https://github.com/11ty/11ty-community/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/11ty-community.svg?style=for-the-badge)](https://github.com/11ty/11ty-community/pulls) |
 
-| Repository name | Version | Issues | Pull Requests |
-| --- | --- | --- | --- |
-| [`11ty/eleventy-base-blog`](https://github.com/11ty/eleventy-base-blog) | | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy-base-blog.svg?style=for-the-badge)](https://github.com/11ty/eleventy-base-blog/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/eleventy-base-blog.svg?style=for-the-badge)](https://github.com/11ty/eleventy-base-blog/pulls) |
+| Repository name | Issues | Pull Requests |
+| --- | --- | --- |
+| [`11ty/eleventy-base-blog`](https://github.com/11ty/eleventy-base-blog) | [![GitHub issues](https://img.shields.io/github/issues/11ty/eleventy-base-blog.svg?style=for-the-badge)](https://github.com/11ty/eleventy-base-blog/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/11ty/eleventy-base-blog.svg?style=for-the-badge)](https://github.com/11ty/eleventy-base-blog/pulls) |
 
 | Repository name | Version | Issues | Pull Requests |
 | --- | --- | --- | --- |
